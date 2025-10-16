@@ -3,8 +3,8 @@ def add_numbers(a, b):
     return a + b
 
 if __name__ == "__main__":
-    num1 = 5
-    num2 = 7
+    num1 = 5148
+    num2 = 2
     result = add_numbers(num1, num2)
     print(f"{num1} + {num2} = {result}")
 
